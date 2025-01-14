@@ -21,7 +21,7 @@ This repository contains a classic **Pong game** built using **SDL2** and **SDL_
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pong-game-sdl2.git
+   git clone https://github.com/mikedriessen/CPP_Pong.git
    ```
 2. Build the project:
    ```bash
