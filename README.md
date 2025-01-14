@@ -42,7 +42,8 @@ This repository contains a classic **Pong game** built using **SDL2** and **SDL_
   ```
 
 ## Screenshot
-*(Add a screenshot of the game window if possible.)*
+![Pong](https://github.com/user-attachments/assets/4e07c767-b0bf-43a4-bdb0-123aa5a7b414)
+
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
